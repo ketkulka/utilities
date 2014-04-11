@@ -1,4 +1,6 @@
 #!/bin/bash
+#this is a test
+
 
 INTERVAL="1"  # update interval in seconds
 
